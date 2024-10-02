@@ -25,7 +25,4 @@ module.exports = {
       excludedFiles: "babel.config.js",
     },
   ],
-  rules: {
-    "linebreak-style": 0,
-  },
 };
